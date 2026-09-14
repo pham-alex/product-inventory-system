@@ -56,3 +56,6 @@ dkms.conf
 
 # Output files
 inventory.csv
+
+#IDE
+.vscode/
