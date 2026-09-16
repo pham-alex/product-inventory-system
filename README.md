@@ -17,5 +17,13 @@ A **product inventory management program** written in C. This program enables th
 - A menu system showing options on what to do in the inventory
 
 ### CSV
-- Selecting save to CSV creates a file named inventory.csv and uses the format:
-Name,ID,Quantity,Price,Category 
+Selecting save to CSV creates a file named inventory.csv and uses the format:
+
+Name,ID,Quantity,Price,Category
+
+### How to Run Program
+- i. Clone this repository
+- ii. Open this project folder in a terminal
+- iii. Compile this program using a C compiler
+- iv. Run the compiled program
+  
